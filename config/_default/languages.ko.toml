@@ -1,14 +1,14 @@
 disabled = false
-languageCode = "en"
-languageName = "English"
+languageCode = "ko"
+languageName = "Korean"
 weight = 1
 title = "이나이에 - Eenaie"
 
 [params]
-displayName = "EN"
-isoCode = "en"
+displayName = "KO"
+isoCode = "ko"
 rtl = false
-dateFormat = "2 January 2006"
+dateFormat = "January 2, 2006"
 description = "40대 중년의 고분분투 항해일지"
 
 ["params.author"]
