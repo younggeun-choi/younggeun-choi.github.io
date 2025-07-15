@@ -1,9 +1,9 @@
 ---
-title: "hello-world"
+title: "40대 중반 직장인의 고백: 더 늦기 전에 AI 공부를 시작한 이유"
 date: 2025-07-15
 draft: true
 description: "a description"
-tags: ["example", "tag"]
+tags: ["인공지능", "커리어"]
 ---
  an example to get you started
 # This is a heading
