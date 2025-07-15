@@ -1,0 +1,16 @@
+disabled = false
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "이나이에 - Eenaie"
+
+[params]
+displayName = "EN"
+isoCode = "en"
+rtl = false
+dateFormat = "2 January 2006"
+description = "40대 중년의 고분분투 항해일지"
+
+["params.author"]
+name = "Eenaie"
+headline = "40대 중반의 IT 스타트업 아저씨"
