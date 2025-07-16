@@ -8,17 +8,19 @@ title = "이나이에 - Eenaie"
 displayName = "KO"
 isoCode = "ko"
 rtl = false
+# logo = "images/logo.png"
 dateFormat = "January 2, 2006"
 description = "40대 중년의 고분분투 항해일지"
+copyright = "© 2025 Dokahn Works, Inc."
 
 [params.author]
 name = "이나이에"
 headline = "중년의 IT 스타트업 아저씨"
-bio = "안녕하세요"
+bio = "호기심 많은 젊은이에서 어느덧 세상의 속도가 버거운 아저씨로..."
 image = "images/author_1.jpg"
 imageQuality = 96
 links = [ 
-    { Youtube   = "https://www.youtube.com/@eenaie"	    },
+    { youtube   = "https://www.youtube.com/@eenaie"	    },
     { threads   = "https://www.threads.com/@eenaie"     },
     { instagram = "https://www.instagram.com/eenaie"    }
 ]

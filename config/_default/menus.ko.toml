@@ -9,20 +9,19 @@ weight = 1
 
 [[main]]
 name = "Posts"
-pageRef = "/posts/"
+pageRef = "posts"
 identifier = "UYrV6IKvlh"
 weight = 2
 
 [[main]]
-name = "About"
-pageRef = "/about.md"
-identifier = "cCWn1hBdk3"
+name = "YouTube"
+url = "https://www.youtube.com/@eenaie"
 weight = 3
 
 [[main]]
-pre = "youtube"
-identifier = "Youtube"
-url = "https://www.youtube.com/@eenaie"
+name = "About"
+pageRef = "about"
+identifier = "cCWn1hBdk3"
 weight = 4
 
 [[main]]
