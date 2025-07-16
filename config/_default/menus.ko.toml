@@ -19,5 +19,23 @@ pageRef = "/about.md"
 identifier = "cCWn1hBdk3"
 weight = 3
 
+[[main]]
+pre = "youtube"
+identifier = "Youtube"
+url = "https://www.youtube.com/@eenaie"
+weight = 4
+
+[[main]]
+pre = "threads"
+identifier = "Threads"
+url = "https://www.threads.com/@eenaie"
+weight = 5
+
+[[main]]
+pre = "instagram"
+identifier = "Instagram"
+url = "https://www.instagram.com/eenaie"
+weight = 6
+
 [[footer]]
 none = "none"

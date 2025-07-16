@@ -11,6 +11,14 @@ rtl = false
 dateFormat = "January 2, 2006"
 description = "40대 중년의 고분분투 항해일지"
 
-["params.author"]
+[params.author]
 name = "이나이에"
 headline = "중년의 IT 스타트업 아저씨"
+bio = "안녕하세요"
+image = "images/author_1.jpg"
+imageQuality = 96
+links = [ 
+    { Youtube   = "https://www.youtube.com/@eenaie"	    },
+    { threads   = "https://www.threads.com/@eenaie"     },
+    { instagram = "https://www.instagram.com/eenaie"    }
+]
